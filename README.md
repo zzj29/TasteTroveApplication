@@ -4,7 +4,7 @@
 TasteTrove is a web application designed to streamline meal planning and grocery shopping for families. Users can register as admin or family members, with admin users having the ability to add, update, and delete recipes. Family members can browse recipes, mark their preferences, and request dishes for upcoming meals.
 
 ### ERD
-![ERDiagrme](src/main/resources/image/ERD.png)
+![ERDiagrme](src/main/resources/images/ERD.png)
 
 ### Wireframes
 ![LogInPage](src/main/resources/images/Wireframe1%20-%20login.png)
