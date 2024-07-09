@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "rsa",
+      "type": "TasteTroveApplication.security.RsaKeyProperties",
+      "sourceType": "TasteTroveApplication.security.RsaKeyProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "rsa.private-key",
+      "type": "java.security.interfaces.RSAPrivateKey",
+      "sourceType": "TasteTroveApplication.security.RsaKeyProperties"
+    },
+    {
+      "name": "rsa.public-key",
+      "type": "java.security.interfaces.RSAPublicKey",
+      "sourceType": "TasteTroveApplication.security.RsaKeyProperties"
+    }
+  ],
+  "hints": []
+}
