@@ -7,11 +7,11 @@ TasteTrove is a web application designed to streamline meal planning and grocery
 ![ERDiagrme](src/main/resources/image/ERD.png)
 
 ### Wireframes
-![LogInPage](src/main/resources/image/Wireframe1%20-%20login.png)
-![UserPage](src/main/resources/image/Wirefram2%20-%20user%20page.png)
-![AdminPage](src/main/resources/image/Wireframe3%20-%20admin%20home%20page.png)
-![AdminPage](src/main/resources/image/Wireframe4%20-%20admin%20recipe.png)
-![AdminPage](src/main/resources/image/Wirefram5%20-%20admin%20add%20recipe.png)
+![LogInPage](src/main/resources/images/Wireframe1%20-%20login.png)
+![UserPage](src/main/resources/images/Wirefram2%20-%20user%20page.png)
+![AdminPage](src/main/resources/images/Wireframe3%20-%20admin%20home%20page.png)
+![AdminPage](src/main/resources/images/Wireframe4%20-%20admin%20recipe.png)
+![AdminPage](src/main/resources/images/Wirefram5%20-%20admin%20add%20recipe.png)
 
 ### Java Spring template project
 
